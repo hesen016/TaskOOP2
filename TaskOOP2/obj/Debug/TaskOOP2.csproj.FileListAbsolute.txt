@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\TaskOOP2\TaskOOP2\bin\Debug\TaskOOP2.exe.config
+C:\Users\ASUS\source\repos\TaskOOP2\TaskOOP2\bin\Debug\TaskOOP2.exe
+C:\Users\ASUS\source\repos\TaskOOP2\TaskOOP2\bin\Debug\TaskOOP2.pdb
+C:\Users\ASUS\source\repos\TaskOOP2\TaskOOP2\obj\Debug\TaskOOP2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TaskOOP2\TaskOOP2\obj\Debug\TaskOOP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\TaskOOP2\TaskOOP2\obj\Debug\TaskOOP2.Form1.resources
+C:\Users\ASUS\source\repos\TaskOOP2\TaskOOP2\obj\Debug\TaskOOP2.Properties.Resources.resources
+C:\Users\ASUS\source\repos\TaskOOP2\TaskOOP2\obj\Debug\TaskOOP2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TaskOOP2\TaskOOP2\obj\Debug\TaskOOP2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TaskOOP2\TaskOOP2\obj\Debug\TaskOOP2.exe
+C:\Users\ASUS\source\repos\TaskOOP2\TaskOOP2\obj\Debug\TaskOOP2.pdb
+C:\Users\ASUS\source\repos\TaskOOP2\TaskOOP2\obj\Debug\TaskOOP2.Form2.resources
